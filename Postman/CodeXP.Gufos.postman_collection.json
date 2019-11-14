@@ -1,0 +1,16 @@
+{
+  "id": "4db33332-afb2-2dc5-f0d2-e48add73afc9",
+  "name": "Postman Globals",
+  "values": [
+    {
+      "key": "urlGufos",
+      "value": "http://localhost:5000/api",
+      "description": "",
+      "type": "text",
+      "enabled": true
+    }
+  ],
+  "_postman_variable_scope": "globals",
+  "_postman_exported_at": "2019-11-13T14:22:33.993Z",
+  "_postman_exported_using": "Postman/5.5.4"
+}
